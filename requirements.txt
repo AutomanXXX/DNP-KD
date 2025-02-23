@@ -1,0 +1,72 @@
+asttokens==3.0.0
+certifi==2022.12.7
+charset-normalizer==2.1.1
+cmake==3.25.0
+contourpy @ file:///home/conda/feedstock_root/build_artifacts/contourpy_1727293517607/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1733332471406/work
+decorator==5.1.1
+exceptiongroup==1.2.2
+executing==2.1.0
+filelock==3.13.1
+fonttools==4.54.1
+idna==3.4
+imagecodecs @ file:///croot/imagecodecs_1734436728732/work
+imageio==2.35.1
+imgaug @ file:///home/conda/feedstock_root/build_artifacts/imgaug_1640909786103/work
+importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1733223117029/work
+importlib_resources @ file:///home/conda/feedstock_root/build_artifacts/importlib_resources_1733231327252/work
+ipython==8.18.1
+jedi==0.19.2
+Jinja2==3.1.3
+joblib==1.4.2
+kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/kiwisolver_1725459266648/work
+kornia==0.6.8
+lazy_loader @ file:///home/conda/feedstock_root/build_artifacts/lazy-loader_1733636780672/work
+lightning-utilities==0.12.0
+lit==15.0.7
+MarkupSafe==2.1.5
+matplotlib==3.9.2
+matplotlib-inline==0.1.7
+mpmath==1.3.0
+munkres==1.1.4
+networkx==3.2.1
+numpy==1.26.3
+opencv-python==4.10.0.84
+opencv-python-headless==4.10.0
+packaging==24.1
+pandas==2.2.3
+parso==0.8.4
+pexpect==4.9.0
+Pillow==9.5.0
+prompt_toolkit==3.0.48
+ptyprocess==0.7.0
+pure_eval==0.2.3
+Pygments==2.18.0
+pyparsing==3.1.4
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1733215673016/work
+pytz==2024.2
+PyWavelets==1.6.0
+requests==2.28.1
+scikit-image @ file:///home/conda/feedstock_root/build_artifacts/scikit-image_1729813831904/work/dist/scikit_image-0.24.0-cp39-cp39-linux_x86_64.whl#sha256=0c7dce45edfb3a30f19347707d3b26b682cd5e60f47467d41f4b328d7e196c34
+scikit-learn==1.5.2
+scipy==1.13.1
+shapely @ file:///home/conda/feedstock_root/build_artifacts/shapely_1727273410720/work
+six==1.16.0
+stack-data==0.6.3
+sympy==1.12
+threadpoolctl==3.5.0
+tifffile @ file:///home/conda/feedstock_root/build_artifacts/tifffile_1718963615451/work
+torch==2.0.0+cu118
+torchaudio==2.0.1+cu118
+torchmetrics==1.6.1
+torchsummary==1.5.1
+torchvision==0.15.1+cu118
+tqdm==4.66.5
+traitlets==5.14.3
+triton==2.0.0
+typing_extensions==4.9.0
+tzdata==2024.2
+unicodedata2 @ file:///home/conda/feedstock_root/build_artifacts/unicodedata2_1729704563364/work
+urllib3==1.26.13
+wcwidth==0.2.13
+zipp==3.20.2
