@@ -8,5 +8,6 @@ Multi-class Anomaly Detection (AD) methods have recently gained significant atte
 ## Test
 Download the model checkpoints and extract the zip so that the checkpoints folder will be located in the base directory of this repository.
 Download link:
-[[https://mega.nz/file/kNoTgLhI#nNq8aP1r5QC_5ub4wfoq5yUPtCl2bKFCgiq4gKalZtY](https://drive.google.com/file/d/1XJ0U_jWXnVRzjfT_3SQPoU46GgLALtOa/view?usp=drive_link)]
+[[[https://mega.nz/file/kNoTgLhI#nNq8aP1r5QC_5ub4wfoq5yUPtCl2bKFCgiq4gKalZtY](https://drive.usercontent.google.com/download?id=1XJ0U_jWXnVRzjfT_3SQPoU46GgLALtOa&export=download)]
+
 `python test.py`
